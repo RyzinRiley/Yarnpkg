@@ -23,7 +23,7 @@
     "@yarnpkg/pnp": "workspace:^",
     "lodash": "^4.17.15",
     "pkg-tests-core": "workspace:^",
-    "tar": "^6.0.5",
+    "tar": "^7.5.13",
     "tslib": "^2.4.0"
   },
   "engines": {
